@@ -7,7 +7,7 @@ function Footer() {
   return (
     <Flip delay={1000} triggerOnce>
       <Container>
-        <p> © Copyright 2020 Rebeca Nonato - All Rights Reserved</p>
+        <p> © Copyright 2020 Bruna Souza - All Rights Reserved</p>
       </Container>
     </Flip>
   );

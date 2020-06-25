@@ -9,7 +9,7 @@ export const Container = styled.footer`
 
   p {
     font-size: 15px;
-    color: #F4F7F6;
+    color: #BA68C8;
   }
 
   @media (max-width: 768px) {
