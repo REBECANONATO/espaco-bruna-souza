@@ -3,9 +3,9 @@ import Header from '../containers/Header';
 import Footer from '../containers/Footer';
 import TopPage from '../containers/TopPage';
 import Gretting from '../containers/Greeting';
-import Servicos from '../containers/Servicos';
+import Servicos from '../containers/ServicosOferecidos';
 // import Projects from '../containers/Projects';
-// import Contact from '../containers/Contact';
+import Contact from '../containers/Contact';
 
 
 function Main() {
@@ -14,8 +14,8 @@ function Main() {
             <Header />
             <Gretting />
             <Servicos />
-            {/* <Projects />
-            <Contact /> */}
+            {/* <Projects />*/}
+            <Contact /> 
             <Footer />
             <TopPage />
         </>

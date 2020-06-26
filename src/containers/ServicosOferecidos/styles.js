@@ -36,7 +36,7 @@ export const Container = styled.div`
     border: transparent thin solid;
     padding: 5px;
     margin: 0px 10px 10px 0;
-    max-width: 486px;
+    max-width: 586px;
   }
 
 
