@@ -1,6 +1,7 @@
 import React from 'react';
 import { Fade } from 'react-awesome-reveal';
 import ContactImg from '../../assets/horario.jpg';
+import Social from '../Social';
 
 import { Container, ContactImgDiv, ContactDiv } from './styles';
 
@@ -22,6 +23,7 @@ export default class Contact extends React.Component {
                         <p>
                             <a href="tel:35998581340">+55 (35) 99858-1340</a>
                         </p>
+                        <Social />
                     </ContactDiv>
                     <ContactImgDiv>
                         <img src={ContactImg} alt="Imagem de contato" />
