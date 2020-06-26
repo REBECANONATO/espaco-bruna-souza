@@ -1,6 +1,5 @@
 import React from 'react';
 import { FaInstagram, FaFacebook, FaWhatsappSquare } from 'react-icons/fa';
-import { GrMail } from 'react-icons/gr';
 import { Container } from './styles';
 
 function Social() {
