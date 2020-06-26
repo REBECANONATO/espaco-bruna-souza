@@ -9,7 +9,7 @@ export default class Contact extends React.Component {
     render(){
         return(
             <Fade direction="top" delay={500} triggerOnce>
-                <Container id="contact">
+                <Container id="contato">
                     <ContactDiv>
                         <h1>Bruna Souza "Beleza e Estética"</h1>
                         <p>Um momento relaxante, onde eu cuido de você.

@@ -15,7 +15,7 @@ import { Container } from './styles';
 function ServicosOferecidos() {
   return (
     <Fade direction="right" delay={500} triggerOnce>
-        <Container id="Servicos">
+        <Container id="servicos">
             <div class="frases">
                 <h1> Manicure e Pedicure</h1>
 
